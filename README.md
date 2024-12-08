@@ -2,6 +2,10 @@
 This is a Shiny app that can be useful for those who want to test and obtain quick results on k-means clusters for their data. The user may test different values of k=2 to 20, and can also obtain a graphic visualization of the optimal number of clusters. A heatmap of clusters of individual observations and variables used will be visible as well. 
 A distance matrix graph will be also ploted and will be updated when the variables used are modified in a dropdown menu on the side bar menu.
 
+Link to the Shiny App: https://shareknowledge2learn.shinyapps.io/Kmean_Clusters/ 
+
+If more interested please contact me on LinkedIn account!
+
 ![image](https://github.com/user-attachments/assets/0816ae08-3a21-42d0-be00-9927dbc544ad)
 
 ![image](https://github.com/user-attachments/assets/f777a336-539c-4136-a1b2-ceff90b49bde)
